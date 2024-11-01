@@ -35,7 +35,7 @@ function Favcity({ fav, removeFavCity }) {
       <h2>{!data.city ? 'Loading...' : data.city.name}</h2>
     </div>
     
-      {!data.city ? <div className="right">'Loading Weather Information...</div> :
+      {!data.city ? <div className="right">Loading Weather Information...</div> :
      <div className="right"> 
       <div className="always">
        
