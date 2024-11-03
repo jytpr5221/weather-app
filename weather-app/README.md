@@ -1,8 +1,16 @@
-# React + Vite
+<----Description---->
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The Weather Dashboard is a web application that allows users to search for a city's current weather conditions and view a 5-day weather forecast. Users can save their favorite cities, making it easy to quickly access the current weather conditions for those locations.
 
-Currently, two official plugins are available:
+<---- Features ---->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+City Search: Search for and display current weather conditions for any city. 5-Day Forecast: View weather predictions for the next 5 days. Favorite Cities: Save and manage favorite cities for quick access to their current weather conditions. Local Storage: Persist favorite cities using browser local storage.
+
+<---- Tech Stacks ---->
+
+Frontend: React, Vite, HTML, CSS, JavaScript API: OpenWeatherMap API
+State Management: React hooks (useState, useEffect) Storage: Browser local storage
+
+
+Deployed on vercel:
+https://weather-app-yk6p-gkr6ie6ob.vercel.app/
