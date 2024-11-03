@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./input.css";
-import Item from "../item/item";
+import Item from "../item/Item";
 import showWeather from "../../asyncFunctionHandlers/getWeather";
 
 function Input({setFavCities}) {
