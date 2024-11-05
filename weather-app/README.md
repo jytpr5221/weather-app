@@ -12,5 +12,5 @@ Frontend: React, Vite, HTML, CSS, JavaScript API: OpenWeatherMap API
 State Management: React hooks (useState, useEffect) Storage: Browser local storage
 
 
-Deployed on vercel:
-https://weather-app-yk6p-gkr6ie6ob.vercel.app/
+Deployed on Render:
+ https://weather-app-jp.onrender.com
